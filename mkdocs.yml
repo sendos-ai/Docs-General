@@ -4,9 +4,6 @@ repo_name: "GitHub"
 repo_url: https://github.com/sendos-ai/Docs-General
 edit_uri: blob/main/docs
 
-color_mode: auto
-user_color_mode_toggle: True
-
 theme:
   name: material
   favicon: img/favicon.ico
