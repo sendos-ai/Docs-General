@@ -1,0 +1,30 @@
+name: Deploy MkDocs site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Cambia esto a la rama que estás utilizando para desarrollar
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install mkdocs
+        pip install mkdocs-material  # Si estás usando el tema "material"
+      
+    - name: Deploy to GitHub Pages
+      run: |
+        mkdocs gh-deploy --force
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
