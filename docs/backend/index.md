@@ -1,3 +1,3 @@
-![sendos](img/sendos_logo.png)
+![sendos](../img/sendos_logo.png)
 
 # Backend

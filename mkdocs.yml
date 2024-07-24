@@ -9,9 +9,31 @@ user_color_mode_toggle: True
 
 theme:
   name: material
+  favicon: img/favicon.ico
+  logo: img/sendos_iso.png
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 nav:
   - Inicio: index.md
+  - Release / Features: release/index.md
   - Diseño UX/UI: design/index.md
   - BackEnd: backend/index.md
   - FrontEnd: frontend/index.md
