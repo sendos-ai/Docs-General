@@ -108,7 +108,7 @@ Este documento describe la metodología paso a paso seguida por nuestro diseñad
 
 - **Resultado**: Refinar y mejorar el diseño basado en la retroalimentación de los usuarios.
 
-### Metodologías Utilizadas:
+### Metodologías Utilizadas
 
 - **Design Thinking**: Empatizar, Definir, Idear, Prototipar, Probar.
 
@@ -116,7 +116,7 @@ Este documento describe la metodología paso a paso seguida por nuestro diseñad
 
 - **Atomic Design**: Átomos, Moléculas, Organismos, Plantillas, Páginas.
 
-### Resumen:
+### Resumen
 Nuestro proceso de diseño UX/UI está profundamente arraigado en el Diseño Centrado en el Usuario (UCD), asegurando que cada paso esté enfocado en satisfacer las necesidades y expectativas del usuario final. Al aprovechar metodologías como Design Thinking, Lean UX y Atomic Design, creamos diseños intuitivos, eficientes y visualmente atractivos que ofrecen una experiencia de usuario superior.
 
 ---
