@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sendos.ai/</loc>
-         <lastmod>2024-07-24</lastmod>
+         <lastmod>2024-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/about/</loc>
-         <lastmod>2024-07-24</lastmod>
+         <lastmod>2024-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/backend/</loc>
-         <lastmod>2024-07-24</lastmod>
+         <lastmod>2024-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/design/</loc>
-         <lastmod>2024-07-24</lastmod>
+         <lastmod>2024-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/frontend/</loc>
-         <lastmod>2024-07-24</lastmod>
+         <lastmod>2024-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/release/</loc>
-         <lastmod>2024-07-24</lastmod>
+         <lastmod>2024-07-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

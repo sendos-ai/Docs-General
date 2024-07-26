@@ -4,6 +4,15 @@ repo_name: "GitHub"
 repo_url: https://github.com/sendos-ai/Docs-General
 edit_uri: blob/main/docs
 
+copyright: "© 2024 Sendos AI"
+author: "Sendos AI Team"
+
+extra_javascript:
+  - js/extra.js
+
+extra_css:
+  - css/extra.css
+
 theme:
   name: material
   favicon: img/favicon.ico
@@ -27,6 +36,17 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
+plugins:
+  - search
+
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/sendos-ai/Docs-General
+#   analytics:
+#     provider: google
+#     tracking_id: UA-XXXXXXXXX-X
 
 nav:
   - Inicio: index.md
