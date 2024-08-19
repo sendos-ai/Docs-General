@@ -1,5 +1,6 @@
+
 document.addEventListener("DOMContentLoaded", function () {
-    var correctPassword = "123456"; // Esto lo debemos guardar en un .env para mejor seguridad
+    var set_pswd = "@Adm!n.2024+#";
 
     // Función para mostrar el overlay de contraseña
     function showPasswordOverlay() {
@@ -27,8 +28,8 @@ document.addEventListener("DOMContentLoaded", function () {
         document.body.appendChild(overlay);
 
         button.addEventListener("click", function () {
-            if (input.value === correctPassword) {
-                localStorage.setItem("docsPassword", correctPassword);
+            if (input.value === set_pswd) {
+                localStorage.setItem("docsPassword", set_pswd);
                 overlay.classList.add("hidden");
             } else {
                 message.innerHTML = "Acceso denegado. Clave incorrecta. No puedes Leer la documentacion.";
@@ -39,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Verifica si la contraseña está almacenada en localStorage
     var storedPassword = localStorage.getItem("docsPassword");
-    if (storedPassword !== correctPassword) {
+    if (storedPassword !== set_pswd) {
         showPasswordOverlay();
     }
 });
