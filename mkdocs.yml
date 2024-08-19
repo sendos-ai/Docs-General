@@ -49,11 +49,11 @@ plugins:
 
 nav:
   - Inicio: index.md
-  - Release / Features: release/index.md
-  - Diseño UX/UI: design/index.md
-  - BackEnd: backend/index.md
-  - FrontEnd: frontend/index.md
+  - Release / Features: src/release.md
+  - Diseño UX/UI: src/design.md
+  - BackEnd: src/backend.md
+  - FrontEnd: src/frontend.md
   - Acerca de sendos: about.md
-  - Funcionalidades: functions/index.md
-  - Requisitos: stack/requirements.md
-  - Historia de usuario: user/history.md
+  - Funcionalidades: src/functions.md
+  - Requisitos: src/stack_requirements.md
+  - Historia de usuario: src/user_history.md

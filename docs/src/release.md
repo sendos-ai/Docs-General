@@ -1,4 +1,4 @@
-![sendos](../img/sendos_logo.png)
+![sendos](../assets/img/sendos_logo.png)
 
 # Release / Features
 

@@ -1,4 +1,4 @@
-![sendos](img/sendos_logo.png)
+![sendos](assets/img/sendos_logo.png)
 
 🙋‍♀️ Los empleados ya no se quedan solo por un buen salario, un buen liderazgo o una sala de juegos. Ahora, buscan algo más personal y duradero: un futuro prometedor dentro de la empresa, oportunidades de crecimiento y un sentido de propósito en su trabajo. Crear sus propios Senderos de Carrera.
 
