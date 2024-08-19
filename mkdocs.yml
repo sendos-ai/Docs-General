@@ -7,10 +7,10 @@ edit_uri: blob/main/docs
 copyright: "© 2024 Sendos AI"
 
 extra_javascript:
-  - js/extra.js
+  - assets/js/extra.js
 
 extra_css:
-  - css/extra.css
+  - assets/css/extra.css
 
 theme:
   name: material

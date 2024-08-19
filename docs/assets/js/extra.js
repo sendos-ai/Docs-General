@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         overlay.className = "overlay";
 
         var logo = document.createElement("img");
-        logo.src = "img/sendos_iso.png";
+        logo.src = "assets/img/sendos_iso.png";
         overlay.appendChild(logo);
 
         var message = document.createElement("h1");
