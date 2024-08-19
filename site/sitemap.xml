@@ -11,37 +11,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sendos.ai/backend/</loc>
+         <loc>https://sendos.ai/src/backend/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sendos.ai/design/</loc>
+         <loc>https://sendos.ai/src/design/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sendos.ai/frontend/</loc>
+         <loc>https://sendos.ai/src/frontend/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sendos.ai/functions/</loc>
+         <loc>https://sendos.ai/src/functions/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sendos.ai/release/</loc>
+         <loc>https://sendos.ai/src/release/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sendos.ai/stack/requirements/</loc>
+         <loc>https://sendos.ai/src/stack_requirements/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sendos.ai/user/history/</loc>
+         <loc>https://sendos.ai/src/user_history/</loc>
          <lastmod>2024-08-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
