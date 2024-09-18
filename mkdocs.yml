@@ -50,3 +50,4 @@ nav:
   - Funcionalidades: src/functions.md
   - Requisitos: src/stack_requirements.md
   - Historia de usuario: src/user_history.md
+  - test: src/prueba.md

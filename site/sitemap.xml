@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sendos.ai/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/about/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/src/backend/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/src/design/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/src/frontend/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/src/functions/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://sendos.ai/src/prueba/</loc>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/src/release/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/src/stack_requirements/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://sendos.ai/src/user_history/</loc>
-         <lastmod>2024-08-19</lastmod>
+         <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
