@@ -6,8 +6,9 @@ edit_uri: blob/main/docs
 
 copyright: "© 2024 Sendos AI"
 
-extra_javascript:
-  - assets/js/extra.js
+# LO USAREMOS EN EL FUTURO, TIENE PROBLEMAS DE SEGURIDAD
+# extra_javascript:
+#   - assets/js/extra.js
 
 extra_css:
   - assets/css/extra.css
@@ -38,14 +39,6 @@ theme:
 
 plugins:
   - search
-
-# extra:
-#   social:
-#     - icon: fontawesome/brands/github
-#       link: https://github.com/sendos-ai/Docs-General
-#   analytics:
-#     provider: google
-#     tracking_id: UA-XXXXXXXXX-X
 
 nav:
   - Inicio: index.md
