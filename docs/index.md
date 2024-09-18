@@ -1,6 +1,6 @@
 ![sendos](assets/img/sendos_logo.png)
 
-# Bienvenidos a la Documentacion de Sendos AI
+# Bienvenidos hola a la Documentacion de Sendos AI
 
 Las reglas del juego del talento han cambiado. Los empleados ya no se quedan solo por un buen salario, un buen liderazgo o una sala de juegos. Ahora, buscan algo más personal y duradero: un futuro prometedor dentro de la empresa, oportunidades de crecimiento y un sentido de propósito en su trabajo. Crear sus propios Senderos de Carrera.
 
